@@ -5,7 +5,7 @@ You only need this repo to become a Developer because this post has a nearly an 
 <hr>
 
 # Blog your Journey
--  [Hashnode](https://hashnode.com/@sasarfarazstark/joinme)  - Hashnode is the easiest way to start a developer blog on your personal domain 🌏 for free and connect with the readers through our global dev community! 👩‍💻👨‍💻
+-  [Hashnode](https://hashnode.com/@sarfarazstark/joinme)  - Hashnode is the easiest way to start a developer blog on your personal domain 🌏 for free and connect with the readers through our global dev community! 👩‍💻👨‍💻
 - [ Dev.to](https://dev.to/) - DEV is a community of software developers getting together to help one another out. 
 -  [Hackernoon ](https://hackernoon.com/) - An Independent Tech Media Site
 
