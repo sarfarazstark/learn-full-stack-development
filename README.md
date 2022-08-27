@@ -1,3 +1,4 @@
+![main](/1_YOp4dWRPoapPW-ZNV7IXyQ.jpeg)
 
 You only need this post to become a Developer because this post has a nearly an unlimited amount of every type of resource covering everything you will need. 
 
